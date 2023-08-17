@@ -1,8 +1,4 @@
 This is FileC
-<<<<<<< HEAD
 Author changed to "Harshmx"
 Make another change
-=======
-Let's make a change
-Doing again to verify.
->>>>>>> FeatureA
+changed
